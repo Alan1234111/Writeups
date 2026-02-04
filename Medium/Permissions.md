@@ -30,5 +30,7 @@ Next i checked what is inside that file `metadata.json` and it contains a flag
 <img width="2119" height="215" alt="image" src="https://github.com/user-attachments/assets/325ca6bb-e572-4aef-8a3a-c3f285927213" />
 
 
+To complete this challange we could also use :!bash on VIM editor to get root access to shell
+
 ## Flag
 *picoCTF{uS1ng_v1m_3dit0r_55878b51}*
